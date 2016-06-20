@@ -1,0 +1,20 @@
+{
+  "name": "mengjie-yu-portfolio",
+  "description": "Mengjieyu portfolio",
+  "main": "server.js",
+  "authors": [
+    "Mengjie Yu <jess901108@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6",
+    "angular-route": "^1.5.3",
+    "angular-bootstrap": "^1.3.1",
+    "angular-resource": "^1.5.3"
+  },
+  "install": {
+    "path": "client/libs"
+  }
+}

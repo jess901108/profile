@@ -1,0 +1,15 @@
+#about-image {
+    border: 5px solid black;
+}
+
+#about h1 {
+    border-bottom: 2px solid black;
+}
+
+.ng-enter {
+    animation: fadeIn 1s;
+}
+
+/*.ng-leave {*/
+/*    animation: bounceOut 1s;*/
+/*}*/
