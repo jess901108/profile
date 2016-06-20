@@ -1,6 +1,9 @@
 {
   "name": "mengjie-yu-portfolio",
   "version": "0.0.1",
+  "engines":{
+    "node":"4.4.0"
+  },
   "description": "Mengjieyu portfolio",
   "main": "server.js",
   "scripts": {
